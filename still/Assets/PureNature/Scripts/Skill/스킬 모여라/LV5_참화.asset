@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b6b03413cae6649b516d8b0f718483, type: 3}
+  m_Name: "LV5_\uCC38\uD654"
+  m_EditorClassIdentifier: 
+  skillName: "\uCC38\uD654"
+  icon: {fileID: 21300000, guid: 470629b5f5e10f740954c6b1c5b78cd7, type: 3}
+  requiredLevel: 5
+  isUnlocked: 0
+  description: "\uAC70\uB300\uD55C \uBD88\uB369\uC774\uB97C \uB358\uC838 \uAC15\uB825\uD55C
+    \uB370\uBBF8\uC9C0\uB97C \uC900\uB2E4."
+  CoolTime: 10
+  CoolTimer: -0.014507879
+  ManaUse: 0
+  Skill_Level: 0
+  maxLevel: 10
+  baseAttackPercentage: 100
+  attackIncreasePerLevel: 4
+  RequireSkill: {fileID: 0}
+  RequireSkillLevel: 0
+  isAvail_Cool: 0
+  skill_Effects: {fileID: 6234818455853893159, guid: 96c30f207bdbb3243abb88e8d5255d1e, type: 3}
+  IsCooldownActive: 0
+  _Start: 0
+  uiParent: {fileID: 0}

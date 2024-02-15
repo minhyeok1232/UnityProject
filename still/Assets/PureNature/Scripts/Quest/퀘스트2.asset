@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 368d6dc04b347924e8a437b93934f421, type: 3}
+  m_Name: "\uD018\uC2A4\uD2B82"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: reward
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Item, Assembly-CSharp],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.ObjectEqualityComparer`1[[Item, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: introductionDialogue
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Chat, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 8
+    - Name: 
+      Entry: 7
+      Data: 3|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uBAA8\uD5D8\uAC00, \uD560 \uB9D0\uC774 \uC788\uC2B5\uB2C8\uB2E4!"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 0
+    - Name: ChatText
+      Entry: 1
+      Data: "\uC548\uB155\uD558\uC138\uC694. \uAC11\uC790\uAE30\uC694?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uD55C\uCE35 \uB354 \uAC15\uD574\uC9C4 \uBAA8\uD5D8\uAC00\uC758 \uBAA8\uC2B5\uC744
+        \uBCF4\uACE0 \uC2F6\uC5B4\uC694"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 0
+    - Name: ChatText
+      Entry: 1
+      Data: "\uBB34\uC5C7\uC744 \uC6D0\uD558\uC2DC\uB294\uAC70\uC8E0?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uD669\uC18C\uAC00 \uC774 \uB9C8\uC744\uC744 \uC704\uD611\uD558\uACE0
+        \uC788\uC5B4\uC694."
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uAC15\uD574\uC9C4 \uBAA8\uD5D8\uAC00\uB2D8\uAED8\uC11C \uB3C4\uC640\uC8FC\uC154\uC57C
+        \uD569\uB2C8\uB2E4."
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uD669\uC18C\uB97C \uCC98\uCE58 \uBD80\uD0C1\uD569\uB2C8\uB2E4."
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 0
+    - Name: ChatText
+      Entry: 1
+      Data: "\uC218\uB77D\uD560\uAE4C?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: acceptedDialogue
+      Entry: 7
+      Data: 11|System.Collections.Generic.List`1[[Chat, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 12|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uB2F9\uC2E0\uB9CC\uC744 \uBBFF\uACA0\uC2B5\uB2C8\uB2E4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: declinedDialogue
+      Entry: 7
+      Data: 13|System.Collections.Generic.List`1[[Chat, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 14|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uC5EC\uAE30\uAE4C\uC9C0\uC654\uB294\uB370 \uB108\uBB34\uD558\uB124.."
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: completionDialogue
+      Entry: 7
+      Data: 15|System.Collections.Generic.List`1[[Chat, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 16|Chat, Assembly-CSharp
+    - Name: chatting
+      Entry: 3
+      Data: 1
+    - Name: ChatText
+      Entry: 1
+      Data: "\uAC10\uC0AC\uD569\uB2C8\uB2E4 \uBAA8\uD5D8\uAC00 \uB2F9\uC2E0\uBC16\uC5D0
+        \uC5C6\uC2B5\uB2C8\uB2E4!!"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  questType: 1
+  category: 0
+  id: 2
+  title: "\uC131\uC7A5, \uB3C4\uC804, \uACBD\uD5D8"
+  sequence: 0
+  description: 
+  requiredLevel: 5
+  itemName: 
+  itemAmount: 1
+  MonsterName: Bull
+  MonsterAmount: 0
+  expReward: 270
+  targetNPC: {fileID: 0}

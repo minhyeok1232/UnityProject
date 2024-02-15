@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b6b03413cae6649b516d8b0f718483, type: 3}
+  m_Name: "Lv4_\uC0B0\uC0B0\uC870\uAC01"
+  m_EditorClassIdentifier: 
+  skillName: "\uC0B0\uC0B0\uC870\uAC01"
+  icon: {fileID: 21300000, guid: 7cd772197773e1649a0bb1f95c9ccf05, type: 3}
+  requiredLevel: 4
+  isUnlocked: 1
+  description: "\uC8FC\uBCC0\uC5D0 \uAC80\uC744 \uAF42\uC544\uC11C \uC9C0\uC18D\uC801\uC73C\uB85C
+    \uACF5\uACA9\uD55C\uB2E4."
+  CoolTime: 7
+  CoolTimer: 4.5772424
+  ManaUse: 0
+  Skill_Level: 0
+  maxLevel: 10
+  baseAttackPercentage: 170
+  attackIncreasePerLevel: 5
+  RequireSkill: {fileID: 0}
+  RequireSkillLevel: 0
+  isAvail_Cool: 0
+  skill_Effects: {fileID: 8087642690043788950, guid: 9e78a49b9ed9ccb45984f2bf60c0d032, type: 3}
+  IsCooldownActive: 1
+  _Start: 0
+  uiParent: {fileID: 0}
