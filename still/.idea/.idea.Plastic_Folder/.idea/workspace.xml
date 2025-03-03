@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd03b53-9852-4a97-b582-0bfdc06f2cb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/10Inventory.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/10Inventory.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/11Messages.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/11Messages.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/13Missions.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/13Missions.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/14LevelUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/14LevelUp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/15Complete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/15Complete.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/16Defeat.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/16Defeat.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/17Pause.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/17Pause.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/18Quit.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/18Quit.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/19Complete1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/19Complete1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/2LevelSelect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/2LevelSelect.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/3Main Page.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/3Main Page.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/4SignIn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/4SignIn.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/5SignUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/5SignUp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/6Settings.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/6Settings.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/7Shop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/7Shop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/8No-Coins.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/8No-Coins.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/9Gems Shop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flat Minimalist GUI Pack/Resources/Prefabs/9Gems Shop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Item/berry.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Item/berry.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Easy Save 3/Editor/ES3Asmdefs.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Easy Save 3/Resources/ES3/ES3Defaults.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Easy Save 3/Resources/ES3/ES3Defaults.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Attribute Processors.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libFirebaseCppAuth.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/Firebase/libFirebaseCppAuth.a.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine02c.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine02c.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine03c.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine03c.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine04c.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/Pine04c.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree01b.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree01b.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree02b.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree02b.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree03b.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree03b.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree04b.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTree04b.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTreeDead01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/Billboards/Materials/PineTreeDead01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/PineTrees/Textures/Materials/PineTreeLeaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/PineTrees/Textures/Materials/PineTreeLeaves.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/PineTrees/Textures/Materials/PineTreeLeaves_Frost.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Models/Vegetation/PineTrees/Textures/Materials/PineTreeLeaves_Frost.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/3Main Page.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/3Main Page.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/CharacterExp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/CharacterExp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/FirebaseAuthManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/FirebaseAuthManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/GameStartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/GameStartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/LogInSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/GameStart/LogInSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Character Script/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Item/Meat.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Item/Meat.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/ActionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/ActionController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/Inventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/Slot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/ItemScript/Slot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterInformation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterInformation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterPrefab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster/MonsterPrefab.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster_Bear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Monster_Bear.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/MainScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/MainScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/QuestInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/QuestInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/퀘스트1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Quest/퀘스트1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/Scene_Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/Scene_Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/TestSlider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PureNature/Scripts/TestSlider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/말풍선.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/말풍선.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/말풍선2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/말풍선2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/배경.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/배경.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/버리기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/버리기.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/이미지.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Scripts/이미지.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Settings/Built-in/Built-in.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Settings/URP/URP_10.3.2.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/Settings/URP/URP_7.3.1.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PureNature/졸작 (1).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Tiny Hero Duo/Animation/SwordAndShield/AvatarMask.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RPG Tiny Hero Duo/Animation/SwordAndShield/AvatarMask.mask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ABCD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/ABCD.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Models/NPCScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Models/NPCScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseAnalytics.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseAppCheck.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseAuth.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseCrashlytics.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseDatabase.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseDynamicLinks.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseFirestore.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseFunctions.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseInstallations.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseMessaging.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseRemoteConfig.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/firebase_unity_sdk/FirebaseStorage.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Y0Bo1FBAjh75k4SBHYLi2RgGLG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity 2021.3.18f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\PC\Desktop\Plastic_Folder -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\PC\Desktop\Plastic_Folder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity 2021.3.18f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\PC\Desktop\Plastic_Folder -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\PC\Desktop\Plastic_Folder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd03b53-9852-4a97-b582-0bfdc06f2cb6" name="Changes" comment="" />
+      <created>1699652809563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699652809563</updated>
+      <workItem from="1699652821246" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
