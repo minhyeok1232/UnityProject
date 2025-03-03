@@ -1,0 +1,4 @@
+﻿Number,Name,Level,Hp,Exp,Item,Damage,Gold
+0,Bear,1,100,10,A,5,10
+1,Bull,15,1240,380,D,10,1000
+2,Dog,3,500,20,C,7,30
