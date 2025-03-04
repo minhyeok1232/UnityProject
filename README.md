@@ -66,6 +66,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 </details>
 
 ### 🤖 서비스 전반의 UI 개선
+#### A/B 테스트를 통한 UI 최적화 및 사용자 경험 개선
 - 사용자 행동 분석을 통해 게임 UI를 기획하고, 접근성을 개선하여 사용자 경험을 강화하였습니다.
 - 다양한 RPG 게임의 UI를 참고하며 직관적이고 효율적인 인터페이스를 설계하였습니다.
 #### Before
@@ -73,6 +74,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 #### After
 ![image](https://github.com/user-attachments/assets/181d38b7-b2a2-4d38-885f-e69656787b47)
 <br>
+#### 로그인 UI 개선
 게임 시작 시 로그인 화면이 표시되며, 타이핑 효과를 활용한 텍스트 애니메이션이 적용시켰습니다.
 ![Image](https://github.com/user-attachments/assets/fac1bde5-1ed9-4876-97b3-5be9283c88db)
 
