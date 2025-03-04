@@ -37,11 +37,51 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 
 ## 🔗 클래스 다이어그램
 ### 객체지향 설계를 반영한 클래스 구조도
-#### 화면 렌더링 클래스 다이어그램
-![image](https://github.com/user-attachments/assets/98746991-15c5-4736-86d8-e3eb87757c21)
+![Image](https://github.com/user-attachments/assets/632683b4-bb61-44c4-97dc-592b0a374de5)
 
-#### 오브젝트 & 물리 시스템
-![image](https://github.com/user-attachments/assets/b556a03c-a634-40b5-b65b-b075dbcb6a4a)
+<details>
+  <summary> 주요 클래스 설명 </summary>
+
+  #### Character Script :
+  PlayerController : 캐릭터의 메인 스크립트로, 캐릭터의 동작과 관련된 로직을 담당합니다.
+  CharacterExp : 캐릭터의 경험치와 레벨을 관리하는 스크립트입니다.
+  CriticalManager : 크리티컬 데미지를 관리하는 스크립트입니다.
+
+  #### Monster Script :
+  MonsterBehaviour : 몬스터의 메인 스크립트로 몬스터의 동작을 관리합니다.
+  MonsterInformation : CSV 파일을 받아 몬스터의 기본 정보를 관리하는 스크립트입니다.
+  MonsterPrefab : Prefab으로 구성된 몬스터 객체를 관리하는 스크립트입니다.
+
+  #### NPC Script :
+  NPC Script : NPC와 Player의 상호작용을 관리하는 스크립트입니다.
+  
+  #### Item Script :
+  ActionController: 아이템에 대한 동작을 나타냅니다. (아이템 줍기, 등등 로직)
+  Inventory : 인벤토리를 관리하는 스크립트입니다.
+  Slot : 아이템 관련 데이터를 처리하는 스크립트입니다.
+  DragSlot : 아이템 슬롯의 드래그 기능을 담당합니다.
+  
+  #### Quest Script :
+  Main Script : NPC와 캐릭터 간의 상호작용을 관리하면서 퀘스트를 진행하는 클래스입니다.
+  QuestInfo : 퀘스트에 대한 정보를 담고 있는 SO(ScriptableObject) 클래스입니다.
+
+  #### Firebase Script :
+  FirebaseAuthManager : Firebase 인증을 관리합니다.
+  GameManagerScript, LoginSystem: 게임과 관련된 로그인 시스템을 관리합니다.
+
+  #### Damage Script :
+  DamageText : 데미지 애니메이션과 텍스트를 표시하는 스크립트입니다.
+  ObjectPooler: 오브젝트 풀링 기능을 최적화하는 스크립트입니다.
+
+  #### Skill Script : 
+  Skill (ScriptableObject): 스킬에 대한 기본 정보를 담고 있는 ScriptableObject 클래스입니다.
+  Skill_CoolTime_Script: 스킬의 쿨타임을 관리하는 스크립트입니다.
+  Skill_Instantiate: 스킬을 Prefab 형태로 구성하여 스킬의 쿨타임을 관리하는 스크립트입니다.
+  Skill_Display: 스킬을 화면에 표시하고, 액션을 트리거하는 스크립트입니다.
+  SkillManager: 스킬을 총괄하고 관리하는 스크립트입니다.
+  SkillSlot: 여러 스킬의 슬롯 기능을 관리하는 스크립트입니다.
+
+</details>
 
 
 ## 🔄 진행 및 개선 사항
