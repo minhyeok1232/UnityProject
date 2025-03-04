@@ -1,5 +1,5 @@
-# ISAAC_Direct2D
-DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한 모작 게임입니다.
+# 숲 속의 작은 전사 : 모험의 시작
+Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니다.
 
 ## 📌 목차
 1. [🔎 프로젝트 소개](#-프로젝트-소개)
@@ -12,11 +12,13 @@ DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한
 ---
 
 ## 🔎 프로젝트 소개
-- **장르** : 2D Top view Shooting Game
-- **IDE** : Visual Studio 2019 (DirectX 2D)
+- **장르** : Built-In(PC) 3D MMORPG
+- **IDE** : Unity 3.18f, Visual Studio 2022
 - **목적** : 
-  - DirectX 2D의 렌더링 파이프라인을 학습하기 위해 제작된 프로젝트
-  - HLSL을 활용한 셰이더 프로그래밍과 그래픽 효과 구현 연습
+  - 사용자에게 몰입감 있는 비주얼을 제공하기 위해 대형 3D Asset으로 제작
+  - 사용자에게 역동적인 연출과 부드러운 카메라 움직임을 제공
+  - 사용자에게 끊김 없는 플레이 경험을 제공
+  - 일관된 시스템 구조와 효율적인 리소스 관리 구현
 
 <details>
   <summary>🎇 프로젝트 실행 방법</summary>
@@ -32,7 +34,7 @@ DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 
 
 ## 🎯 프로젝트 기간
-- MVP 개발 기간 : 2024.12.18 ~ 2025.01.31
+- MVP 개발 기간 : 2023.03 ~ 2023.11
 - 프로젝트 인원 : 1인 (개인)
 
 ## 🔗 클래스 다이어그램
