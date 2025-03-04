@@ -1,4 +1,4 @@
-# 숲 속의 작은 전사 : 모험의 시작
+![image](https://github.com/user-attachments/assets/bb733e7a-6df0-4d66-853b-0124610fdb18)# 숲 속의 작은 전사 : 모험의 시작
 Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니다.
 
 ## 📌 목차
@@ -95,17 +95,33 @@ CSV 파일을 사용하면 코드를 수정하지 않고도 게임 데이터를 
 #### CSV파일에서 데이터를 읽고, Monster 객체를 생성
 ![image](https://github.com/user-attachments/assets/2cbf0732-22aa-4467-b59c-24ce777bcbb8)
 
+### Dictionary를 활용한 데이터 접근
+#### Dictionary<int, QuestInfo> 및 Dictionary<int, QuestProgress>를 사용하여 빠른 데이터 검색 가능
+![image](https://github.com/user-attachments/assets/556db88d-716f-4c22-b431-6d8f050b49b4)
 
+#### 배열이나 리스트대신 Dictionary를 활용하여 O(1)에 가까운 시간복잡도의 데이터 조회
+![image](https://github.com/user-attachments/assets/412d1896-d61a-4a01-b1be-a95d5ef6c761)
 
-![image](https://github.com/user-attachments/assets/0e8eab94-d634-4e4e-b7b5-c0f056e7d38c)
-1. 정점 설정 및 Shader 참조
-- Vertex Shader를 이용하여 충돌 박스를 생성하였습니다.
-- DirectX에서 셰이더 코드를 활용하여 정점(Vertices)처리를 하였습니다.
-2. HLSL의 World 행렬 적용
-- 월드(World), 뷰(View), 프로젝션(Projection) 행렬을 적용하여 충돌 박스를 좌표로 변환하였습니다.
-3. HLSL의 Pixel Shader(Color) 적용
-- 픽셀 셰이더(Pixel Shader)를 활용하여 충돌 감지 시 색상 변화를 적용하였습니다.
-- 충돌 상태에 따라 색상이 변화하도록 셰이더 로직을 구현하였습니다.
+### 데이터 저장 및 로드 (ES3 활용)
+#### Load Data
+![image](https://github.com/user-attachments/assets/d23ce374-7999-4528-8048-ed323eed3ede)
+#### Save Data
+![image](https://github.com/user-attachments/assets/ca55e674-84aa-4059-a6b3-a5989c837171)
+<details>
+  <summary>🎇 PlayerPrefs와 ES3의 차이점 </summary>
+ - PlayerPrefs
+  - int, float, string 기본 자료형만 저장 가능하며 복잡한 데이터 구조에는 저장 불가능합니다.
+  - 보안 취약하다는 단점이 있습니다.
+  - 대량 데이터 저장 시 성능이 저하됩니다.
+
+ - ES3 (Easy Save 3)
+  - 객체(Class), Dictionary, List 까지 저장이 가능합니다.
+  - 데이터 직렬화를 지원합니다.
+  - 클라우드 저장하는 방식이며, AES 암호화 지원을 하기 때문에 보안이 강합니다.
+  - 대량의 데이터 저장/로드 부분에서 속도가 빠릅니다. 
+  
+</details>
+
 
 <br><br>
 
