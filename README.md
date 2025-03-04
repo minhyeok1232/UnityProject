@@ -123,6 +123,16 @@ CSV 파일을 사용하면 코드를 수정하지 않고도 게임 데이터를 
   
 </details>
 
+<br>
+
+### 이벤트 시스템 적용
+![image](https://github.com/user-attachments/assets/0fe3d4ca-275b-44c3-88b1-0cf05e4dd31f)
+'OnQuestCompleted' 이벤트를 활용하여 퀘스트가 완료될 때 외부에서 추가 작업을 할 수 있다.
+?.Invoke(myQuest) : 이벤트가 연결된 경우에만 실행하여 안전하게 호출이 가능하다.
+
+![image](https://github.com/user-attachments/assets/0a897c75-0a79-4df3-ab11-1587d5f257be)
+이벤트 기반으로 동작하여 보상 지급, 경험치 지급을 개별적으로 처리할 수 있게 된다.
+#### 이는 이벤트 시스템을 통해 추가 기능 확장이 쉬워진다는 장점이 있다.
 
 <br><br>
 
