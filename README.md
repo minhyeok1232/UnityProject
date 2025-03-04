@@ -109,16 +109,16 @@ CSV 파일을 사용하면 코드를 수정하지 않고도 게임 데이터를 
 ![image](https://github.com/user-attachments/assets/ca55e674-84aa-4059-a6b3-a5989c837171)
 <details>
   <summary>🎇 PlayerPrefs와 ES3의 차이점 </summary>
-  - PlayerPrefs
-    - int, float, string 기본 자료형만 저장 가능하며 복잡한 데이터 구조에는 저장 불가능합니다.
-    - 보안 취약하다는 단점이 있습니다.
+- PlayerPrefs
+  -  int, float, string 기본 자료형만 저장 가능하며 복잡한 데이터 구조에는 저장 불가능합니다.
+  -   보안 취약하다는 단점이 있습니다.
     - 대량 데이터 저장 시 성능이 저하됩니다.
 
  - ES3 (Easy Save 3)
    - 객체(Class), Dictionary, List 까지 저장이 가능합니다.
-  - 데이터 직렬화를 지원합니다.
-  - 클라우드 저장하는 방식이며, AES 암호화 지원을 하기 때문에 보안이 강합니다.
-  - 대량의 데이터 저장/로드 부분에서 속도가 빠릅니다. 
+   - 데이터 직렬화를 지원합니다.
+   - 클라우드 저장하는 방식이며, AES 암호화 지원을 하기 때문에 보안이 강합니다.
+   - 대량의 데이터 저장/로드 부분에서 속도가 빠릅니다. 
   
 </details>
 
