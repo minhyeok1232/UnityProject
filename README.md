@@ -76,18 +76,21 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 <br><br>
 
 ## ⚡ 프로젝트 최적화 과정
-### ImGUI를 통한 실시간 성능 모니터링을 통한 최적화
-ImGUI를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성능을 모니터링을 할 수 있게 하였습니다. <br>
-![Image](https://github.com/user-attachments/assets/872d2f93-75cb-425d-acc6-a99eff270541)
-<br>
-디버깅 창을 직접 구현하여 코드 수정 없이 오브젝트를 조정하고 실시간으로 테스트할 수 있는 환경을 구축하였습니다.
-![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
+### 프로퍼티(Property) 활용
+기존의 직접적인 변수 접근 방식에서 **C# 프로퍼티(get; set;)**를 활용하여 데이터를 보호하고 관리하기 쉽게 최적화하였습니다.
+'private set;'을 적용하여 불필요한 외부 변경을 방지하고, 안전한 데이터 변경 구조를 만들었습니다.
+Level 값은 직접 변경할 수 없도록 설정하고, Exp가 일정량 쌓이면 LevelUp() 메서드를 통해서만 상승하도록 개선했습니다.
+![image](https://github.com/user-attachments/assets/15feca75-6a75-4537-b4c2-0b50052e0d4c)
 
 <br><br>
 
-### HLSL을 활용한 그래픽 최적화
-HLSL 언어를 사용한 DirectX 셰이더 프로그래밍을 적용하여 그래픽 렌더링 성능을 최적화하였습니다.
+### CSV 파일을 이용한 데이터 관리
+몬스터 정보를 CSV 파일로 관리하였습니다. 
+몬스터 데이터를 monsters.csv에 저장하고, 필요할 때 로드하여 동적으로 생성하도록 변경하였습니다.
+CSV 파일을 사용하면 코드를 수정하지 않고도 게임 데이터를 쉽게 변경할 수 있어, 데이터 관리가 유연해집니다.
 ![image](https://github.com/user-attachments/assets/278a6da2-2619-4934-b7fe-93797be35426)
+
+
 
 ![image](https://github.com/user-attachments/assets/0e8eab94-d634-4e4e-b7b5-c0f056e7d38c)
 1. 정점 설정 및 Shader 참조
