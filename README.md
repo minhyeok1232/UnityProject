@@ -28,10 +28,8 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
   git clone https://github.com/minhyeok1232/ISAAC_Direct2D.git
 ```
 ### 2️⃣ 실행 파일
-ISAAC_Direct2D/DirectX2D_ISAAC 경로로 이동
-DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
+  Unity Hub 실행 후, 클론한 프로젝트 폴더를 선택 후 "Open" 클릭!
 </details>
-
 
 ## 🎯 프로젝트 기간
 - MVP 개발 기간 : 2023.03 ~ 2023.11
@@ -47,39 +45,35 @@ DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 
 
 ## 🔄 진행 및 개선 사항
-### ✨ 셰이더 프로그래밍 개선
-HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 구현하였습니다.
-- HLSL : Pixel 색상을 변경하여 충돌 상태를 `시각적`으로 표현하였습니다.
-- 행렬 : 충돌 박스의 위치, 크기, 회전을 적용하면서 `좌표 변환`을 수행하였습니다.
-![Image](https://github.com/user-attachments/assets/e36bf54e-a4c0-4963-867c-379d0b410d94)
+### ✨ 사용자 데이터 저장 시스템
 
-### 🔀 멀티 스레드 적용
-멀티 스레드를 사용함으로써 게임 시작과 동시에 별도의 스레드에서 모든 씬(Scene)을 미리 로드합니다.
-- 기존 싱글스레드 방식 대비 약 `40%` 로딩 시간 단축
-- FPS 모니터링 결과 초기 로딩 중 프레임 드랍을 최대 `50%`까지 감소
-![Image](https://github.com/user-attachments/assets/563cd473-a65b-491f-b662-d417873f2c67)
+#### 사용자에게 강력한 보안의 데이터 저장을 제공하였습니다.
+- Realtime Firebase를 활용하여 클라우드 형식의 데이터 저장 시스템을 구축
+- 보안이 취약한 PlayerPrefs 대신 Easy Save 2를 사용하여 데이터 보안 강화
+![image](https://github.com/user-attachments/assets/7d3dad3a-14c3-4ab0-bcaf-014a790650e4)
 
-### 🤖 AI 시스템 개선
-`AStar` 알고리즘을 활용하여 최적의 경로 탐색을 구현하였습니다.
-- 격자 시스템으로 적 AI의 이동 가능 영역을 관리
-- 실시간으로 경로를 재계산하여 동적 장애물 변화에도 유연하게 대응할 수 있도록 AI 이동 로직을 개선
-![Image](https://github.com/user-attachments/assets/2a3a8b97-b556-4194-829d-876009aedce4)
 
-### 💥 충돌 시스템 개선
-- AABB(Axis-Aligned Bounding Box) 충돌
+### 🔀 카메라 시스템 개선
+#### 사용자에게 몰입감 있는 연출을 제공하기 위해 기획 및 구현하였습니다.
+- 가상의 카메라 Cinemachine은 유니티 기본 카메라와 독립적으로 작동하기 때문에 간섭이 없습니다.
+- 사용자에게 맵 전체를 보여줄 수 있는 Track 형식의 Dolly Camera를 사용하였습니다.
+![image](https://github.com/user-attachments/assets/88761052-a507-4d67-8d9c-2c8eb9e00400)
+<details>
+  <summary>🎇 DollyCam 적용하는 방법 </summary>
+    1. Cube는 Mesh를 투명하게 설정을 한 뒤,
+    2. Cube에다가 DollyCam을 달아주며, Cube가 움직이는대로 카메라를 촬영
+    3. 여기서 Camera는 Cinemachine에 적용된다.
+</details>
 
-X, Y 축에 정렬된 직사각형 충돌 방식으로, 회전이 없으며 빠른 충돌 검사가 가능합니다.
-연산이 적어 효율적이라는 장점이 있습니다.
-<div align="left"> <img src="https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215" width="550" style="float: left; margin-right: 15px;"> </div>
+### 🤖 서비스 전반의 UI 개선
+- 사용자 행동 분석을 통해 게임 UI를 기획하고, 접근성을 개선하여 사용자 경험을 강화하였습니다.
+- 다양한 RPG 게임의 UI를 참고하며 직관적이고 효율적인 인터페이스를 설계하였습니다.
+#### Before
+![image](https://github.com/user-attachments/assets/20d2537d-c945-4fe7-a266-04caf0fd3d61)
+#### After
+![image](https://github.com/user-attachments/assets/181d38b7-b2a2-4d38-885f-e69656787b47)
 
 <br><br>
-
-- OBB(Oriented Bounding Box) 충돌
-
-회전이 고려된 충돌 방식으로, 정확한 충돌 판정 가능합니다.
-벡터 연산(내적) 과정으로 연산이 많아 회전이 필요한 오브젝트나 복잡한 충돌 처리가 필요한 경우 사용합니다.
-<div align="left"> <img src="https://github.com/user-attachments/assets/de75111d-7c82-4e65-884f-9448e3563e9b" width="800" style="float: left; margin-right: 15px;"> </div>
-
 
 ## ⚡ 프로젝트 최적화 과정
 ### ImGUI를 통한 실시간 성능 모니터링을 통한 최적화
