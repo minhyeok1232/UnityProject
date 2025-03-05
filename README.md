@@ -25,7 +25,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 
 ### 1️⃣ Git Clone
   ```bash
-  git clone https://github.com/minhyeok1232/ISAAC_Direct2D.git
+  git clone https://github.com/minhyeok1232/UnityProject.git
 ```
 ### 2️⃣ 실행 파일
   Unity Hub 실행 후, 클론한 프로젝트 폴더를 선택 후 "Open" 클릭!
@@ -89,7 +89,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 
 #### 사용자에게 강력한 보안의 데이터 저장을 제공하였습니다.
 - Realtime Firebase를 활용하여 클라우드 형식의 데이터 저장 시스템을 구축
-- 보안이 취약한 PlayerPrefs 대신 Easy Save 2를 사용하여 데이터 보안 강화
+- 보안이 취약한 PlayerPrefs 대신 Easy Save 3를 사용하여 데이터 보안 강화
 ![image](https://github.com/user-attachments/assets/7d3dad3a-14c3-4ab0-bcaf-014a790650e4)
 
 
