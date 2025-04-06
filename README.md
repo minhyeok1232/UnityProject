@@ -1,5 +1,5 @@
 # 숲 속의 작은 전사 : 모험의 시작
-Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니다.
+Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니다. 
 
 ## 📌 목차
 1. [🔎 프로젝트 소개](#-프로젝트-소개)
