@@ -25,7 +25,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
  
 ### 1️⃣ Git Clone 
   ```bash
-  git clone https://github.com/minhyeok1232/UnityProject.git
+  git clone https://github.com/minhyeok1232/UnityProject.git 
 ```
 ### 2️⃣ 실행 파일
   Unity Hub 실행 후, 클론한 프로젝트 폴더를 선택 후 "Open" 클릭!
