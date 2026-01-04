@@ -37,8 +37,7 @@ Unity 엔진을 활용하여 개발된 Built-In(PC) 3D MMORPG 게임 입니�
 
 ## 🔗 클래스 다이어그램
 ### 객체지향 설계를 반영한 클래스 구조도
-![Uploading image.png…]()
-
+<img width="848" height="613" alt="image" src="https://github.com/user-attachments/assets/64e68df3-cf68-4eab-869b-b4d7d529a16a" />
 
 
 <details>
